@@ -1,0 +1,8 @@
+{
+  "name": "rits-tecnologia-backend-challenge",
+  "version": "0.1.0",
+  "main": "server.js",
+  "repository": "https://github.com/rgvieiraoficial/rits-tecnologia-backend-challenge.git",
+  "author": "rgvieira <yami.hiei87@gmail.com>",
+  "license": "MIT"
+}
