@@ -4,5 +4,8 @@
   "main": "server.js",
   "repository": "https://github.com/rgvieiraoficial/rits-tecnologia-backend-challenge.git",
   "author": "rgvieira <yami.hiei87@gmail.com>",
-  "license": "MIT"
+  "license": "MIT",
+  "dependencies": {
+    "fastify": "^4.18.0"
+  }
 }
